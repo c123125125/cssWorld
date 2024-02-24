@@ -1,0 +1,20 @@
+h1, .class-1{
+    background-color: grey;
+}
+
+ul [href]{
+    color:rgb(158, 155, 155);
+}
+
+[href]{
+    color: blueviolet;
+}
+
+[type]{
+    background-color: yellow;
+}
+
+h1:hover{
+    background-color: aqua;
+    color: brown;
+}

@@ -1,0 +1,19 @@
+/* class & id */
+.food{
+    color:red;
+}
+
+.person{
+    color: blue;
+}
+
+.background-grey, #css-h1{
+    color:yellow;
+    background-color:grey;
+}
+
+/* 整個網頁變色 */
+* {
+    background-color: aqua;
+}
+
